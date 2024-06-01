@@ -1,0 +1,21 @@
+{
+  "detectedConfig": {
+    "typescript": false,
+    "naming": "Pascal Case",
+    "unit": "em",
+    "framework": "react",
+    "styling": "Tailwind"
+  },
+  "locofyConfig": {
+    "project": "HieXzo",
+    "id": "665ab6d66b4248fc6cf88496",
+    "framework": "react",
+    "typescript": false,
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Pascal Case",
+    "path": "public/",
+    "componentsPath": "/Users/adityakumartiwari/HireXzo/hirexzo/src/components",
+    "screensPath": "/Users/adityakumartiwari/HireXzo/hirexzo/src/pages"
+  }
+}
